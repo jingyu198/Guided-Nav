@@ -14,7 +14,7 @@ GuidedNav shapes navigation representations through subtask, landmark, and spati
 
 Coming soon.
 
-- [ ] Checkpoints (ckpts)
+- [ ] Checkpoints
 - [ ] Inference code
 - [ ] Datasets
 - [ ] Training code
