@@ -1,11 +1,38 @@
-# GuidedNav
+<p align="center">
+  <a href="https://jingyu198.github.io/GuidedNav/"><img src="assets/guidednav-logo.png" alt="GuidedNav wordmark with its robot mascot" width="520"></a>
+</p>
 
-**Shaping Vision-Language Navigation Representations through Pre-Action Attention and Spatial Guidance**
+<h1 align="center"><strong>GuidedNav: Shaping Vision-Language Navigation Representations through Pre-Action Attention and Spatial Guidance</strong></h1>
 
-[![Project Page](https://img.shields.io/badge/Project%20Page-2563eb?style=for-the-badge)](https://jingyu198.github.io/GuidedNav/)
-[![Homepage](https://img.shields.io/badge/Homepage-2563eb?style=for-the-badge)](https://jingyu198.github.io/jingyu.github.io/)
-[![Dataset (coming soon)](https://img.shields.io/badge/Dataset-coming%20soon-2563eb?style=for-the-badge)](https://jingyu198.github.io/GuidedNav/#datasets)
-[![Paper](https://img.shields.io/badge/Paper-arXiv%3A2610.13122-2563eb?style=for-the-badge)](https://arxiv.org/abs/2610.13122)
+<p align="center">
+  <a href="https://jingyu198.github.io/jingyu.github.io/">Jingyu Guo</a>
+  &emsp;
+<a href="https://huangjiaxin.mystrikingly.com/">Jiaxin Huang</a><sup>†</sup>
+  &emsp;
+<a href="https://linchengxing.github.io/">Chengxing Lin</a>
+  &emsp;
+<a href="https://scholar.google.com/citations?view_op=search_authors&amp;mauthors=Xiaoyu+Luo+University+of+Macau&amp;hl=en">Xiaoyu Luo</a>
+  &emsp;
+<a href="https://scholar.google.com/citations?view_op=search_authors&amp;mauthors=Cheng+Wen+AGIBOT&amp;hl=en">Cheng Wen</a>
+  &emsp;
+<a href="https://cassie133ye.github.io/">Shanshan Ye</a>
+  &emsp;
+<a href="https://findanexpert.unimelb.edu.au/profile/795463-tingjin-chu">Tingjin Chu</a>
+  &emsp;
+<a href="https://shaoli-huang.github.io/">Shaoli Huang</a><sup>*</sup>
+  &emsp;
+<a href="https://mingming-gong.github.io/">Mingming Gong</a><sup>*</sup>
+</p>
+
+<p align="center">
+  <sup>†</sup> Project leader &nbsp; · &nbsp; <sup>*</sup> Corresponding authors
+</p>
+
+<p align="center">
+  <a href="https://jingyu198.github.io/GuidedNav/"><img src="https://img.shields.io/badge/Project_Page-blue" alt="Project Page" height="20"></a>
+  <a href="https://arxiv.org/abs/2610.13122"><img src="https://img.shields.io/badge/arXiv-2610.13122-b31b1b" alt="Paper on arXiv" height="20"></a>
+  <a href="https://jingyu198.github.io/GuidedNav/#datasets"><img src="https://img.shields.io/badge/Dataset-coming_soon-FF9D00" alt="Dataset (coming soon)" height="20"></a>
+</p>
 
 ## Overview
 
