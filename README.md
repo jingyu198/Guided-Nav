@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://jingyu198.github.io/GuidedNav/"><img src="assets/guidednav-logo.png" alt="GuidedNav wordmark with its robot mascot" width="520"></a>
+  <a href="https://jingyu198.github.io/GuidedNav/"><img src="assets/guidednav-logo.gif" alt="GuidedNav: the blue wordmark and walking robot from the project page" width="520"></a>
 </p>
 
 <h1 align="center"><strong>GuidedNav: Shaping Vision-Language Navigation Representations through Pre-Action Attention and Spatial Guidance</strong></h1>
