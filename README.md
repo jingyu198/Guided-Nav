@@ -38,7 +38,8 @@
 
 ![GuidedNav overview](https://jingyu198.github.io/GuidedNav/assets/overview.webp)
 
-GuidedNav shapes navigation representations through subtask, landmark, and spatial guidance.
+Subtask guidance focuses native pre-action attention on the active instruction span (left); landmark guidance directs it toward task-relevant visual regions (middle); spatial guidance shapes representations of the surrounding 3D structure using historical and nearby observations (right). Together, these training-time objectives connect instruction progress, visual grounding, and geometry to direct action prediction along the illustrated route.
+
 
 ## Release plan
 
