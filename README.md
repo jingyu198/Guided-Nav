@@ -2,7 +2,7 @@
 
 **Shaping Vision-Language Navigation Representations through Pre-Action Attention and Spatial Guidance**
 
-[Project page](https://jingyu198.github.io/GuidedNav/)
+[Paper](https://arxiv.org/abs/2610.13122) · [Project page](https://jingyu198.github.io/GuidedNav/)
 
 ## Overview
 
